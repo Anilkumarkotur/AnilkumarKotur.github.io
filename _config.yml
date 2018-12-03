@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Anilkumar Kotur"
 description: > # this means to ignore newlines until "email:"
-   testing
+   iOS Dev, Designer...
 
-email: a-mail@mail.mail
+email: Anil.sk7@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
