@@ -1,6 +1,5 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
-# 'github-pages' includes 'jekyll' gem 
-gem 'bourbon'
-gem 'jemoji'
-gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'
