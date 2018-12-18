@@ -15,7 +15,7 @@ When Anil is not coding, tweeting or pushing pixels, you'll find him Traveling t
 </p>
 
 <p>
-Working professionally as software Engineer since 2014 in the <b>iOS development<\b> spaces with experience across the logistics, transport and media domains. I occasionally dabble in an Augmented Reality app development.
+Working professionally as software Engineer since 2014 in the <b>iOS development</b> spaces with experience across the logistics, transport and media domains. I occasionally dabble in an Augmented Reality app development.
 </p>
 
 <h2>Skills</h2>
